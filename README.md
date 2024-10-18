@@ -1,4 +1,4 @@
-#Movie Recommender System
+# Movie Recommender System
 
 This project is a Movie Recommender System built using Streamlit and Python. The application suggests movies based on user input, displaying similar movie recommendations along with their posters. The similarity between movies is calculated using a precomputed similarity matrix, and the movie data is loaded using pickle.
 
