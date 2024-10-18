@@ -14,8 +14,8 @@ Data
 The movie data used for this recommendation system is preprocessed and stored in pickle format (movie_dict.pkl). The similarity matrix (similarity.pkl) is also precomputed and used to find similar movies.
 
 Technologies Used
-Streamlit: Used for building the web application.
-Pandas: Data manipulation and analysis.
-Pickle: For loading precomputed data (movies and similarity matrix).
-Requests: Fetching movie posters from The Movie Database (TMDb) API.
-Python: Main programming language for building the recommendation system.
+- *Streamlit:* Used for building the web application.
+- *Pandas:* Data manipulation and analysis.
+- *Pickle:* For loading precomputed data (movies and similarity matrix).
+- *Requests:* Fetching movie posters from The Movie Database (TMDb) API.
+- *Python:* Main programming language for building the recommendation system.
